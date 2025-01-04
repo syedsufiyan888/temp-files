@@ -1,0 +1,15 @@
+.Nav-ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid black;
+  font-weight: 550;
+}
+.head-link {
+  color: rgb(0, 0, 121);
+  text-decoration: none;
+}
+.head-link:hover {
+  color: rgb(216, 0, 0);
+}
